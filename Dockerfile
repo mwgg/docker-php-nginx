@@ -23,7 +23,7 @@ RUN apk add --no-cache \
   php82-openssl \
   php82-phar \
   php82-session \
-  php81-simplexml \
+  php82-simplexml \
   php82-tokenizer \
   php82-xml \
   php82-xmlreader \
